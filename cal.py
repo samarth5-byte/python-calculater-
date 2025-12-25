@@ -1,1 +1,1 @@
-print("this is a my calculater")
+print("this is a my code")
